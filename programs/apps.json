@@ -1,0 +1,14 @@
+[
+    {
+        "name": Adb 15 seconds installer",
+        "version": "1.0.0",
+        "description": "adb fastboot drivers",
+        "downloadUrl": "https://misha1106.github.io/repo-for-store/programs/install_adb.exe"
+    },
+    {
+        "name": "TestProgram",
+        "version": "2.1.3",
+        "description": "Test application",
+        "downloadUrl": "https://example.com/apps/TestProgram.zip"
+    }
+]
