@@ -5,9 +5,8 @@
         "downloadUrl": "https://misha1106.github.io/repo-for-store/programs/install_adb.exe"
     },
     {
-        "name": "Comming Soon...",
-        "version": "0.0.0",
-        "description": "Test application",
-        "downloadUrl": ""
+        "name": "Adb 15 seconds installer",
+        "version": "4.5.6": "adb fastboot drivers",
+        "downloadUrl": "https://misha1106.github.io/repo-for-store/programs/install_adb.exe"
     }
 ]
